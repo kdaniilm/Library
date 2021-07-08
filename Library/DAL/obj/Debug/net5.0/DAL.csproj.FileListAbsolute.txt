@@ -1,0 +1,11 @@
+C:\Users\User\Documents\GitHub\Library\Library\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\User\Documents\GitHub\Library\Library\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\User\Documents\GitHub\Library\Library\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\User\Documents\GitHub\Library\Library\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\User\Documents\GitHub\Library\Library\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Library\Library\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Library\Library\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Library\Library\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Library\Library\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\User\Documents\GitHub\Library\Library\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\User\Documents\GitHub\Library\Library\DAL\obj\Debug\net5.0\DAL.pdb
